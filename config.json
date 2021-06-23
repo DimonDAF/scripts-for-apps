@@ -1,0 +1,16 @@
+{
+    "link": "wss://vaccine-wss.skyreglis.studio/?user=https://skyreglis.studio/vaccine/?reglis_type=vk&reglis_platform=web&vk_access_token_settings=friends&vk_app_id=7704696&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=catalog_recent&vk_ts=1624439264&vk_user_id=243266080&sign=1-1",
+    "pay_link": "https://skyreglis.studio/vaccine/?reglis_type=vk&reglis_platform=web&vk_access_token_settings=friends&vk_app_id=7704696&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=catalog_recent&vk_ts=1624440776&vk_user_id=243266080&sign=1",
+    "autoclick": true,
+    "autobuypassive": {
+        "enabled": true,
+        "forBuy": [3, 4, 5],
+        "countForBuy": 2
+    },
+    "autobuyclick": {
+        "enabled": true,
+        "forBuy": [7, 6, 5, 4, 3, 2],
+        "countForBuy": 2
+    },
+    "autopay": true
+}
